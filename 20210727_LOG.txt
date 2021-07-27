@@ -1,0 +1,421 @@
+2021/07/27_10_47_Start_Detect
+2021/07/27_10_47_LoadRecipe:MainRecipe
+2021/07/27_10_47_StartConnect
+2021/07/27_10_47_StartConnect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>51</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_51___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:0_Y:0_Theta:0_PanelFinder:OK_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:0_Y:0_Theta:0.100800493965111_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_111_X:0_Y:0_Theta:0.000916243926281084_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:-0.0896471017971157_Y:-0.432400878259723_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_Theta:-0.00710362629193839_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:0_Y:0_Theta:-0.00723869930941381_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_111_X:0_Y:0_Theta:0.000432775663263792_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:-0.178774030969327_Y:-0.452470052796371_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_Theta:-0.00120775961901243_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:0_Y:0_Theta:-0.00180655275647804_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_111_X:0_Y:0_Theta:-0.000801503855479603_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:-0.360132677387034_Y:0.00241816744677481_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_Theta:-0.00411024421437624_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:0_Y:0_Theta:-0.00447958898667579_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_Theta:-0.00182448232025901_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:0_Y:0_Theta:-0.00135914033880561_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_111___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_111_X:0_Y:0_Theta:0.000180497925964926_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_48_FINE_11___Connect_Receive_OK
+2021/07/27_10_48_GrabSuccess
+2021/07/27_10_48_FINE_X:-0.727847071157431_Y:0.00257058283440122_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_49_FINE_111___Connect_Receive_OK
+2021/07/27_10_49_GrabSuccess
+2021/07/27_10_49_FINE_Theta:0.00551740681421144_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_49_FINE_11___Connect_Receive_OK
+2021/07/27_10_49_GrabSuccess
+2021/07/27_10_49_FINE_X:0_Y:0_Theta:0.00521688744041894_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_49_FINE_111___Connect_Receive_OK
+2021/07/27_10_49_GrabSuccess
+2021/07/27_10_49_FINE_111_X:0_Y:0_Theta:0.00050940317137149_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_49_FINE_11___Connect_Receive_OK
+2021/07/27_10_49_GrabSuccess
+2021/07/27_10_49_FINE_X:-0.600375692199663_Y:-0.00515411564639734_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_49_FINE_111___Connect_Receive_OK
+2021/07/27_10_49_GrabSuccess
+2021/07/27_10_49_FINE_111_PanelFinder:ERROR
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_49_FINE_11___Connect_Receive_OK
+2021/07/27_10_49_GrabSuccess
+2021/07/27_10_49_FINE_11_PanelFinder:ERROR
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>51</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_51___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0_Y:0_Theta:0_PanelFinder:ERROR_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_11___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0_Y:0_Theta:0.0960285823802419_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_111___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_Theta:0.00116030477091623_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_11___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0_Y:0_Theta:0.00166111202011147_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_111___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_111_X:0_Y:0_Theta:0.000132458792073422_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_11___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0.500217989983907_Y:-0.150763002247828_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_111___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_Theta:-0.00779095057340825_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_11___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0_Y:0_Theta:-0.00762213551548379_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_111___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_111_X:0_Y:0_Theta:0.000792691014418783_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_11___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0.00361773495530813_Y:0.00555600348726135_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_111___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_111_X:0_Y:0_Theta:0.000194024639875799_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>11</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_11___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0.00158214256447046_Y:-0.00134846400792597_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>111</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_111___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_X:0.000629479284500286_Y:-8.63800990582035E-06_Theta:0_Check Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>211</Param1><Param2>02127072</Param2><Param3>1011</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_50_FINE_211___Connect_Receive_OK
+2021/07/27_10_50_GrabSuccess
+2021/07/27_10_50_FINE_211_Retry:OK_Retry Success
+2021/07/27_10_50_FINE_WriteExcelAndSaveImg Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>52</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_52___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0_Y:0_Theta:0_PanelFinder:OK_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>12</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_12___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0_Y:0_Theta:0.0872246117070865_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>112</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_112___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_Theta:0.00258647228039656_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>12</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_12___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0_Y:0_Theta:0.00198596944682982_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>112</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_112___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_112_X:0_Y:0_Theta:0.000250480367846688_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>12</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_12___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0.828403592734013_Y:-0.0364708477058486_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>112</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_112___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_Theta:-0.00390697903081915_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>12</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_12___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0_Y:0_Theta:-0.00383195507905545_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>112</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_112___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_112_X:0_Y:0_Theta:0.000249532784501834_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>12</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_12___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:-0.00445553492562586_Y:0.00235077149430916_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>112</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_112___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_112_X:0_Y:0_Theta:0.000399710160374917_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>12</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_12___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0.000121634351477371_Y:-0.000272216548968765_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>112</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_53_FINE_112___Connect_Receive_OK
+2021/07/27_10_53_GrabSuccess
+2021/07/27_10_53_FINE_X:0.000329012763334356_Y:-0.000254507453783538_Theta:0_Check Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>212</Param1><Param2>02127072</Param2><Param3>1021</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_54_FINE_212___Connect_Receive_OK
+2021/07/27_10_54_GrabSuccess
+2021/07/27_10_54_FINE_212_Retry:OK_Retry Success
+2021/07/27_10_54_FINE_WriteExcelAndSaveImg Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>61</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_56_FINE_61___Connect_Receive_OK
+2021/07/27_10_56_GrabSuccess
+2021/07/27_10_56_FINE_X:0_Y:0_Theta:0_PanelFinder:OK_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:0.136244121123423_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_Theta:0.00142834595906212_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:0.00161164651065063_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_121_X:0_Y:0_Theta:0.00026112077613115_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0.402986091922346_Y:0.0664635941614765_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_Theta:-0.00909724735098066_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:-0.0093107635592391_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_121_X:0_Y:0_Theta:0.000139366616635774_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0.000478700542109073_Y:0.00607640457963034_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:7.27550984936442E-06_Y:7.16281636883536E-05_Theta:0_Check Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>221</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_221___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_221_Retry:NG_Retry ERROR
+2021/07/27_10_57_FINE_WriteExcelAndSaveImg Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>61</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_61___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:0_PanelFinder:OK_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:0.00385719664242576_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_121_X:0_Y:0_Theta:0.000463255409041245_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0.0475550919469911_Y:0.0475787086888944_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_Theta:-0.00534849770077228_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:-0.00462914772037857_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_Theta:-0.00163814201621524_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:-0.000989808697276833_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_121_X:0_Y:0_Theta:8.35128545355509E-05_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:-0.00148706669838676_Y:0.00580633014313304_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0.00729856458315899_Y:0.01_Theta:0_RetrySuccess
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>221</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_221___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_221_Retry:NG_Retry ERROR
+2021/07/27_10_57_FINE_WriteExcelAndSaveImg Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>61</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_61___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:0_PanelFinder:OK_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:0.00484109254815732_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_121_X:0_Y:0_Theta:0.000538067768526408_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0.0420034544365008_Y:0.0432960825561917_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_Theta:-0.00338178016965148_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:-0.00404548775210089_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_121_X:0_Y:0_Theta:-0.000774520469674405_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:-0.00280979781444504_Y:0.00663957881734319_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_Theta:-0.00117194856016126_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_21___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:0_Y:0_Theta:-0.000900408242523838_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_121___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_57_FINE_X:-0.01_Y:0.01_Theta:0_RetrySuccess
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>221</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_57_FINE_221___Connect_Receive_OK
+2021/07/27_10_57_GrabSuccess
+2021/07/27_10_58_FINE_221_Retry:NG_Retry ERROR
+2021/07/27_10_58_FINE_WriteExcelAndSaveImg Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>61</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_61___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:0_Y:0_Theta:0_PanelFinder:OK_StageFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_21___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:0_Y:0_Theta:0.00456337533505451_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_121___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_Theta:0.00152785459784223_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_21___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:0_Y:0_Theta:0.000973598111223176_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_121___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_121_X:0_Y:0_Theta:0.000154624983752048_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_21___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:0.0582756132439468_Y:0.0427824212715666_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_121___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_Theta:-0.00529398010322969_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_21___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:0_Y:0_Theta:-0.00527472331472815_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_121___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_121_X:0_Y:0_Theta:0.000166293103069978_Calculator_MoveX_MoveY_Check:ERROR_Check Error
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_21___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:-0.00189115527850516_Y:0.00652117360147874_Theta:0_Calculator_MoveX_MoveY:OK_Detect Success
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_121___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_Theta:-0.00143063576568661_Over0.0015
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>21</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_21___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:0_Y:0_Theta:-0.00117876863792149_PanelFinder:OK
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>121</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_121___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_X:-0.01_Y:0.01_Theta:0_RetrySuccess
+<?xml version="1.0" encoding="UTF-8"?><Request><Command>FINE</Command><Param1>221</Param1><Param2>02127072</Param2><Param3>1012</Param3><Param4></Param4><Param5></Param5><Param6></Param6><Param7></Param7><Param8></Param8><Param9></Param9></Request>
+2021/07/27_10_58_FINE_221___Connect_Receive_OK
+2021/07/27_10_58_GrabSuccess
+2021/07/27_10_58_FINE_221_Retry:NG_Retry ERROR
+2021/07/27_10_58_FINE_WriteExcelAndSaveImg Success
+2021/07/27_01_28_Start_Detect
+2021/07/27_01_28_LoadRecipe:MainRecipe
+2021/07/27_01_28_StartConnect
